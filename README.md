@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **rohitsutharrr@gmail.com**😊😊
 - 🌱 **I’m currently learning:** AI/ML
 - 👯 **I’m looking to collaborate on:-** smart-admission-ai
 - 🤔 **I’m looking for help with:** smart-admission-ai
-- 💬 **Ask me about:** Collaboration, Tech Support
+- 💬 **Ask me about:** Collaboration,Tech Support
 - 📫 **How to reach me:** rohitsutharrr@gmail.com
 - 😄 **Pronouns:** Rohit
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
