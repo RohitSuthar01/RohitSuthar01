@@ -1,7 +1,7 @@
-# 💫 Hi 👋, I'm **Rohit Suthar**
+# Hi 👋, I'm **Rohit Suthar**
 **A passionate Computer Science Engineer | CyberSecurity**
 
-Email Me 👉 ✉️ **rohitsutharrr@gmail.com**😊😊
+Email Me 👉 ✉️ **rohitsutharrr@gmail.com**😊
 
 - 🔭 **I’m currently working on:** Secure OTA Firmware Update & Code Signing Infrastructure
 - 🌱 **I’m currently learning:** AI/ML
