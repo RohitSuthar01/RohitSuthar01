@@ -1,5 +1,5 @@
 # Hi 👋, I'm **Rohit Suthar**
-**A passionate Computer Science Engineer | CyberSecurity**
+**A passionate **Computer Science Engineer** | CyberSecurity**
 
 Email Me 👉 ✉️ **rohitsutharrr@gmail.com**😊
 
