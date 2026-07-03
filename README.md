@@ -12,7 +12,7 @@ Cybersecurity Engineering Student | Tech Enthusiast | Lifelong Learner
   <a href="https://github.com/RohitSuthar01">
     <img src="https://img.shields.io/github/followers/RohitSuthar01?label=Follow&style=social" />
   </a>
-  <a href="https://linkedin.com/in/rohit-suthar">
+  <a href="https://www.linkedin.com/in/rohit-suthar-063ba4375/">
     <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Suthar-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
