@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">
-Cybersecurity Engineering Student | Tech Enthusiast | Lifelong Learner
+Cybersecurity Engineering Student | Tech Enthusiast | Learner
 </h3>
 
 <p align="center">
@@ -49,7 +49,6 @@ Cybersecurity Engineering Student | Tech Enthusiast | Lifelong Learner
 
 ---
 
-# 💻 Tech Stack
 
 # 💻 Tech Stack:
 
