@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Rohit Suthar</h1>
 
 <div align="center">
-  <img src="Banner.png" alt="Rohit Suthar Banner">
+  <img src="banner.png" alt="Rohit Suthar Banner">
 </div>
 
 <h3 align="center">
