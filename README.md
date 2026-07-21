@@ -14,7 +14,7 @@ AI/ML Engineering Student | Tech Enthusiast | Learner
   </a>
   <a href="https://www.linkedin.com/in/rohit-suthar-063ba4375/">
     <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Suthar-blue?logo=linkedin&style=flat-square" />
-  </a>
+  </a> 
 </p>
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
