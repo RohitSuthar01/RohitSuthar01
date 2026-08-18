@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">
-AI/ML Engineering Student | Tech Enthusiast | Learner
+Cybersecurity Student | Tech Enthusiast | Learner
 </h3>
 
 <p align="center">
@@ -21,8 +21,8 @@ AI/ML Engineering Student | Tech Enthusiast | Learner
 
 ## 👨‍💻 About Me
 
-- 🎓 AI/ML Engineering Student
-- 🔭 Currently working on **Smart Admission AI**
+- 🎓 CyberSecurity Student
+- 🔭 Currently working on **SOC ANAYLIST**
 - 🌱 Learning **AI/ML & Cybersecurity**
 - 👯 Open to collaborate on innovative projects
 - 💬 Ask me about **Cybersecurity, AI/ML, C++, Python**
